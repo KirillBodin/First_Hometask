@@ -1,0 +1,73 @@
+table {
+    margin: 2em auto;
+    text-align: left;
+    border-spacing: 0 0.5em;
+    width: 60em;
+}
+
+th {
+    height: 3.5em;
+    padding-left: 0.5em;
+}
+
+.headlines_table {
+    padding-left: 0.5em;
+    font-size: larger;
+    min-width: 9em;
+    background-color: gray;
+    color: white;
+}
+
+#headlines_icon_archive {
+    height: 1.5em;
+    width: 1.5em;
+}
+
+
+#headlines_icon_delete {
+    height: 1.5em;
+    width: 1.5em;
+}
+
+
+img {
+    height: 1.5em;
+    width: 1.5em;
+}
+
+td {
+    width: 10em;
+    height: 3.5em;
+    padding-left: 0.5em;
+    background-color: lightgray;
+}
+
+.category__head {
+    padding-left: 0.5em;
+    font-size: larger;
+    min-width: 9em;
+    background-color: gray;
+    color: white;
+}
+
+
+
+.circle {
+    width: 3em;
+    height: 3em;
+    margin: auto;
+    border-radius: 2em;
+    background: gray;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#addNote {
+    margin: 0 auto;
+    display: block;
+}
+
+
